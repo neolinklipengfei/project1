@@ -13,4 +13,8 @@ new
  2
  34
 
+<<<<<<< HEAD
  add master 
+=======
+ feature branch modify
+>>>>>>> feature1
